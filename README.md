@@ -4,7 +4,7 @@
     Date: ....
 
 # Absatract
-    In the contemporary competitive academic landscape, students often face "cognitive overload" due to vast syllabi and rigid schedules. This paper presents a personalized study-path optimizer that leverages a Genetic Algorithm (GA) to generate conflict-free, efficiency-maximizing study schedules. The system integrates a MERN (MongoDB, Express, React, Node.js) stack for a seamless user experience and a Python-based optimization engine. By considering user-defined constraints such as subject difficulty, exam dates, and predicted burnout thresholds, the proposed framework offers a dynamic scheduling solution. Preliminary results indicate a 20-25% improvement in syllabus coverage efficiency compared to traditional manual scheduling.
+    In the contemporary competitive academic landscape, students often face "cognitive overload" due to vast syllabi and\ rigid schedules. This paper presents a personalized study-path optimizer that leverages a Genetic Algorithm (GA)\ to generate conflict-free, efficiency-maximizing study schedules. The system integrates a MERN (MongoDB, Express,\ React, Node.js) stack for a seamless user experience and a Python-based optimization engine.\ By considering user-defined constraints such as subject difficulty, exam dates, and predicted burnout thresholds, the\ proposed framework offers a dynamic scheduling solution. Preliminary results indicate a 20-25% improvement in syllabus coverage\ efficiency compared to traditional manual scheduling.
 
 # Introduction
 
