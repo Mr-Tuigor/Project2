@@ -1,4 +1,4 @@
-# Retweeter
+# Smart Study-Path Optimizer (MERN + ML)
     Author: Shaharyar Ansari
     Affiliation: Suryodaya College of Engineering and Technology
     Date: ....
@@ -28,10 +28,14 @@
     Gap Analysis: Most existing tools are for institutional use (ERP systems); there is a lack of personalized, student-centric tools that combine mental health constraints (burnout prediction) with academic goals.
 
 # Methodology
-    Chromosome Representation: Define a study session as a gene (Subject ID, Duration, Timestamp).  
+    Representation: Define a study session (Subject ID, Duration, Timestamp).  
     Fitness Function ($f$): Define the mathematical  
     Genetic Operators: Describe Crossover (combining two schedules) and Mutation (randomly swapping a study session to  
     avoid local optima).
+
+    Tech Stack:
+                MERN stack(for frontend and backend)
+                
 
 # Implementation
     System Architecture: Explain the decoupled architecture.
