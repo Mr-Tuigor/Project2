@@ -28,7 +28,10 @@
     Gap Analysis: Most existing tools are for institutional use (ERP systems); there is a lack of personalized, student-centric tools that combine mental health constraints (burnout prediction) with academic goals.
 
 # Methodology
-    Chromosome Representation: Define a study session as a gene (Subject ID, Duration, Timestamp).Fitness Function ($f$): Define the mathematical goal.$$f = \alpha(Coverage) - \beta(Clash) - \gamma(Difficulty\_Spike)$$Where $\alpha, \beta, \gamma$ are weights for syllabus completion, time conflicts, and back-to-back hard subjects.Genetic Operators: Describe Crossover (combining two schedules) and Mutation (randomly swapping a study session to avoid local optima).
+    Chromosome Representation: Define a study session as a gene (Subject ID, Duration, Timestamp).  
+    Fitness Function ($f$): Define the mathematical  
+    Genetic Operators: Describe Crossover (combining two schedules) and Mutation (randomly swapping a study session to  
+    avoid local optima).
 
 # Implementation
     System Architecture: Explain the decoupled architecture.
@@ -59,7 +62,10 @@
     LLM Integration: Using Gemini/GPT to break down large syllabus PDFs into "Gene-sized" sub-topics automatically.
 
 # Conclusion
-    The proposed "Smart Study-Path Optimizer" successfully bridges the gap between academic planning and computational intelligence. By automating the scheduling process through a Genetic Algorithm, the system provides a scientifically backed path to exam readiness, demonstrating the potential of AI in personalized engineering education.
+    The proposed "Smart Study-Path Optimizer" successfully bridges the gap between academic planning and computational  
+    intelligence. By automating the scheduling process through a Genetic Algorithm, the system provides a  
+    scientifically backed path to exam readiness, demonstrating the potential of AI in personalized engineering  
+    education.
 
 # References
     [1] Author, "Paper Title," Journal/Conference, Year.
